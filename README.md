@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhi-tiw
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 🤔 I'm looking for help with DSA
 - 📫 How to reach me abhishektiwari.mmmut@gmail.com
